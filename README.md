@@ -24,4 +24,5 @@ conda install bs4
 ## Autor 
 <a href="https://github.com/Folladorleo">@follador_leo</a>
 
-
+## licença 
+<a  href="https://choosealicense.com/licenses/mit/"> MIT <a>
